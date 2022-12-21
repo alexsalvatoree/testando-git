@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Impact, sans-serif;
+    background-color: aqua;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+
+}
+
+p {
+    font-family: 'Lucida Sans', sans-serif;
+    padding: 50px;
+    text-align: center;
+}
